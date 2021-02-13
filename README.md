@@ -56,7 +56,7 @@ This project is licensed under the terms of the MIT license.
 ## For Review
 * Github Repository URL: https://github.com/JesalDM/budget-tracker
 * Deployed application Heroku URL: https://my-budget-tracking-app.herokuapp.com/
-* Application demo: ![Application-Demo](./public/images/budget-tracker-demo.gif)
+* Application demo: ![Application-Demo](./public/assets/images/budget-tracker-demo.gif)
 * Screenshot :
-      - ![Landing Page Screenshot](./public/images/budget-tracker_screeshot.png)
-      - ![IndexedDb Screenshot](./public/images/budget-tracker_IndexedDB-screenshot.png)
+      - ![Landing Page Screenshot](./public/assets/images/budget-tracker_screenshot.png)
+      - ![IndexedDb Screenshot](./public/assets/images/budget-tracker_IndexedDB-screenshot.png)
