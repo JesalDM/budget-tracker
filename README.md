@@ -59,4 +59,4 @@ This project is licensed under the terms of the MIT license.
 * Application demo: ![Application-Demo](./public/assets/images/budget-tracker-demo.gif)
 * Screenshot :
       - ![Landing Page Screenshot](./public/assets/images/budget-tracker_screenshot.PNG)
-      - ![IndexedDb Screenshot](./public/assets/images/budget-tracker_IndexedDB-screenshot.PNG)
+      - ![IndexedDb Screenshot](./public/assets/images/budget-tracker_IndexedDb-screenshot.PNG)
